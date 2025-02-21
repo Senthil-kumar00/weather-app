@@ -1,3 +1,6 @@
+## Getting Started with Create React App Vite@latest
+This project was bootstrapped with [Create React App Vite@latest](https://github.com/vitejs/vite.git)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
