@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App Vite@latest](https://github
 
 This link will guide you to how to create a project and other instruction [create project](https://vite.dev/guide/) .
 
+## Live Demo
+[Click here to view the project](https://weather-app-00.vercel.app/)
+
+
 ## Available Scripts
 In the project directory, you can run :
 
