@@ -1,5 +1,6 @@
 # Getting Started with Create React App Vite@latest
-This project was bootstrapped with [Create React App Vite@latest](https://vite.dev/guide/)
+This project was bootstrapped with [Create React App Vite@latest](https://github.com/vitejs/vite.git) .
+This link will guide you to how to create a project and other instruction [create project](https://vite.dev/guide/) .
 
 ## Available Scripts
 In the project directory, you can run :
